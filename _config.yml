@@ -5,7 +5,7 @@ title: Chen Blog
 description: Chen的个人博客
 keywords: Chen,Blog
 author: Chen
-footerText: 'Copyright © 2019 网站备案号'
+footerText: 'Copyright © 2019'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
